@@ -1,0 +1,17 @@
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\bin\Debug\Ednevnik.exe.config
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\bin\Debug\Ednevnik.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\bin\Debug\Ednevnik.pdb
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.csprojAssemblyReference.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Login.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Properties.Resources.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.csproj.GenerateResource.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.csproj.CoreCompileInputs.cache
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.exe
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.pdb
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Glavna.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Osoba.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Sifarnik.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Raspodela.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Glavna2.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Upisnica.resources
+C:\Users\pedja\OneDrive\Documents\GitHub\Ekranska-forma-osoba\Ednevnik\obj\Debug\Ednevnik.Ocena.resources
